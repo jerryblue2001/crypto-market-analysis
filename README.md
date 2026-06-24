@@ -1,10 +1,4 @@
-# Crypto Market Analysis
+# Crypto Analysis
 
-This project analyzes BTCUSDT and ETHUSDT 4h spot market data.
+This project analysis crypto portfolio construction.
 
-## Data
-- BTCUSDT_4h_merged.csv
-- ETHUSDT_4h_merged.csv
-
-## Goal
-Analyze the relationship between price/volume features and future short-term returns.
